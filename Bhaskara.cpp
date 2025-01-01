@@ -27,3 +27,4 @@ int main() {
     solveQuadraticEquation(a, b, c);
     return 0;
 }
+//Arquivo de teste
